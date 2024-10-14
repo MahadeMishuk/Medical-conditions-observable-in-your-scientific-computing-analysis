@@ -15,6 +15,10 @@ We will find out FFT and spectrograms to be used to help diagnose heart conditio
 
 This project implements various signal processing techniques and machine learning methods to analyze Electrocardiogram (ECG) signals for detecting abnormal heart activity such as arrhythmias and premature ventricular contractions (PVCs). By applying Fast Fourier Transform (FFT), spectrogram analysis, and clustering algorithms, we explore patterns in heart activity and identify abnormal signals.
 
+<img width="1070" alt="Screenshot 2024-10-13 at 10 55 02 PM" src="https://github.com/user-attachments/assets/0a208851-cd03-4277-bb25-97d81871e2f0">
+
+
+
 ## Key Features
 
 - **FFT Analysis**: Frequency-domain representation of normal and abnormal heartbeats, allowing detection of irregularities.
